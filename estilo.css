@@ -1,0 +1,28 @@
+#Galeria img {
+    width: 100%;
+    height: 250px;
+}
+
+#Galeria .col-lg-3 {
+    margin: 0 !important;
+    padding: 15px;
+}
+
+#Galeria img:hover {
+    transform: scale(1.1);
+    box-shadow: 14px 14px 20px 0 rgba(20, 20, 20, 0.3);
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 14px 14px 20px 0 rgba(20, 20, 20, 0.3);
+
+}
+
+#contacto{
+    background-image: url("img/imagenbs2.jpg");
+}
+
+a {
+    text-decoration: none;
+  }
